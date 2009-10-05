@@ -1,3 +1,6 @@
 
 a place to keep random scripts and stuff
 
+disablegss.py       disables the screensaver if certain apps are open
+djangobookgen.py    generates a pdf of the django book at http://djangobook.com/
+untabify.py         replaces tabs with spaces
